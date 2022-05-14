@@ -12,7 +12,7 @@ projects: []
 date: '2022-05-07T00:00:00Z'
 
 # Date updated
-lastmod: '2022-05-07T00:00:00Z'
+# lastmod: '2022-05-07T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -32,11 +32,10 @@ authors:
   - admin
 
 tags:
-  - VCS
   - Git
 
 categories:
-  - Git
+  - Programming
 ---
 
 ## About version control and Git
